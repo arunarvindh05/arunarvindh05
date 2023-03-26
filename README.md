@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm ArunArvindh 👋
+I'm **ArunArvindh** 👋
 ### Full Stack Web Developer 🌐 
 
 📝 Hardworking software development professional driven to increase team effectiveness. Focused on usability and performance improvements. Goal-oriented Developer with strong commitment to collaboration and solutions-oriented problem-solving. 
