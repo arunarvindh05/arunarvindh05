@@ -7,17 +7,17 @@ Hardworking software development professional driven to increase team effectiven
 - 🔭 I’m currently working in **Tata Consultancy Services**
 
 **Skills**:
-Programming Languages: Java, Python, C, C++
-Web technologies: HTML, CSS, Java Script, JSON
-Frameworks: Bootstrap, NodeJS, Angular JS, Java Framework (Spring-Boot)
-Libraries: React
-IDE Tools: IntelliJ, STS, Visual Studio, SQL Server Management Studio
-Database: SQL Server, Mongo DB
-Operating system: Windows
-Deployment & Repo Tools: Jenkins, Nexus, GIT
-Scrum Tools: JIRA, VersionOne
-Working Methodologies: Agile Technologies
-API Tool: Postman
+- Programming Languages: Java, Python, C, C++
+- Web technologies: HTML, CSS, Java Script, JSON
+- Frameworks: Bootstrap, NodeJS, Angular JS, Java Framework (Spring-Boot)
+- Libraries: React
+- IDE Tools: IntelliJ, STS, Visual Studio, SQL Server Management Studio
+- Database: SQL Server, Mongo DB
+- Operating system: Windows
+- Deployment & Repo Tools: Jenkins, Nexus, GIT
+- Scrum Tools: JIRA, VersionOne
+- Working Methodologies: Agile Technologies
+- API Tool: Postman
 
 
 <!--
