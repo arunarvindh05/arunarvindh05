@@ -1,10 +1,10 @@
 ### Hi there 👋
 I'm ArunArvindh 👋
-### Full Stack Web Developer
+### Full Stack Web Developer 🌐 
 
 Hardworking software development professional driven to increase team effectiveness. Focused on usability and performance improvements. Goal-oriented Developer with strong commitment to collaboration and solutions-oriented problem-solving. 
 
-- 🔭 I’m currently working in **Tata Consultancy Services**
+- 👨🏻‍💻 I’m currently working in **Tata Consultancy Services**
 
 **Skills**:
 - Programming Languages: Java, Python, C, C++
